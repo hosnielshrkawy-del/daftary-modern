@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "دفتري",
+      "hasCanvas": false,
+      "bodyTextLen": 5,
+      "bodyTextHash": "8a49a11d569a706d37fc58821006184b21632dfeb5e5d56da8901c948dabd692",
+      "bodyTextPrefix": "دفتري",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "دفتري",
+      "hasCanvas": false,
+      "bodyTextLen": 5,
+      "bodyTextHash": "8a49a11d569a706d37fc58821006184b21632dfeb5e5d56da8901c948dabd692",
+      "bodyTextPrefix": "دفتري",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "دفتري",
+      "hasCanvas": false,
+      "bodyTextLen": 22,
+      "bodyTextHash": "d829185135c0a793869a875145d4b5901af4a73d44df019cacd7ba6f958ae3c1",
+      "bodyTextPrefix": "دفتري جاري فتح الدفتر…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "دفتري",
+      "hasCanvas": false,
+      "bodyTextLen": 113,
+      "bodyTextHash": "9be32fd53126e1b0327c43bff9fcebe9ada9c4457787df9350bc589b5ba1f225",
+      "bodyTextPrefix": "دفتري كناشك الرقمي. المصروف، السلف، الجمعية، والمحفظة — على جهاز",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
