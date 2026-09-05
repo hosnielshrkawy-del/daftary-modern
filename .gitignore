@@ -10,3 +10,9 @@ build/
 !.env.example
 *.keystore
 *.jks
+.vercel
+.env*
+
+# Local APK artifacts
+Daftary.apk
+daftary-build*/
